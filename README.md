@@ -1,4 +1,6 @@
 ---Swag Labs QA Automation Project
+
+
 --- Project Overview
 
 This project is focused on testing the web application Swag Labs, a demo e-commerce platform used for QA practice.
