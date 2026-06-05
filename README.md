@@ -1,17 +1,17 @@
----Swag Labs QA Automation Project
+1.Swag Labs QA Automation Project
 
 
---- Project Overview
+. Project Overview
 
 This project is focused on testing the web application Swag Labs, a demo e-commerce platform used for QA practice.
 The goal is to validate core functionalities such as login, product browsing, cart operations, and checkout process using manual and/or automated testing.
 
----Objectives
+.Objectives
 Validate functional requirements of Swag Labs application
 Identify bugs and UI issues
 Ensure smooth user experience across modules
 Maintain traceability between requirements and test cases
- ---Modules Covered
+ .Modules Covered
 Login
 Product Inventory
 Cart Management
@@ -38,8 +38,8 @@ Expected Result
 Actual Result
 Status (Pass/Fail)
 Priority / Severity
-----Traceability Matrix
----Purpose
+.Traceability Matrix
+.Purpose
 
 The Requirements Traceability Matrix (RTM) ensures every requirement is mapped to corresponding test cases and their execution status.
 
