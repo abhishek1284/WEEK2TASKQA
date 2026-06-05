@@ -12,21 +12,21 @@ Identify bugs and UI issues
 Ensure smooth user experience across modules
 Maintain traceability between requirements and test cases
  ---Modules Covered
----Login
----Product Inventory
----Cart Management
----Checkout Process
----Logout
- ---Test Strategy
+Login
+Product Inventory
+Cart Management
+Checkout Process
+Logout
+Test Strategy
 Manual Testing (Functional + UI)
 Automation Testing (if applicable: Selenium / Playwright / Cypress)
 Positive and Negative test scenarios
 Boundary and validation testing
 Test Artifacts
---- Test Scenarios
+Test Scenarios
 
 High-level scenarios derived from requirements (e.g., valid login, invalid login, add to cart, checkout flow).
---- Test Cases
+Test Cases
 
 --Detailed step-by-step test cases including:
 
